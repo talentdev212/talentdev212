@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @talentdev212
+- 👀 I’m interested in web development in the modern javascript frameworks
+- 🌱 I’m currently learning the modern backend technologies
+- 💞️ I’m looking to collaborate on US companies
+- ⚡ Fun fact: coding
